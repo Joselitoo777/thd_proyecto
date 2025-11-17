@@ -55,8 +55,8 @@ AI Talks
 
 Aplicación para EcoSmart: podrías implementar un sistema de IA que analice datos en tiempo real de sensores y prediga picos de demanda, permitiendo a tus clientes ajustar su consumo o programar operaciones para horas más eficientes.
 
-Caso IoT: Los medidores inteligentes (“smart meters”) son un caso clásico de IoT para sostenibilidad energética. 
--Computer Weekly
+-Caso IoT: Los medidores inteligentes (“smart meters”) son un caso clásico de IoT para sostenibilidad energética. 
+Computer Weekly
 
 Aplicación para EcoSmart: desplegar tu propia red de sensores en edificios para medir consumo de electricidad, agua o gas, y ofrecer dashboards con esos datos a los clientes para que optimicen su uso.
 
@@ -128,6 +128,7 @@ arXiv
 
 -Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
 arXiv
+
 
 
 
