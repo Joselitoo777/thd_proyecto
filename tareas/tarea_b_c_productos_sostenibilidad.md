@@ -50,40 +50,40 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-Caso IA: En el sector energético, Capital Energy (España) usa IA + nube para hacer su gestión más sostenible y segura. 
+-Caso IA: En el sector energético, Capital Energy (España) usa IA + nube para hacer su gestión más sostenible y segura. 
 AI Talks
 
 Aplicación para EcoSmart: podrías implementar un sistema de IA que analice datos en tiempo real de sensores y prediga picos de demanda, permitiendo a tus clientes ajustar su consumo o programar operaciones para horas más eficientes.
 
 Caso IoT: Los medidores inteligentes (“smart meters”) son un caso clásico de IoT para sostenibilidad energética. 
-Computer Weekly
+-Computer Weekly
 
 Aplicación para EcoSmart: desplegar tu propia red de sensores en edificios para medir consumo de electricidad, agua o gas, y ofrecer dashboards con esos datos a los clientes para que optimicen su uso.
 
-Caso Big Data: En un estudio sobre digitalización de empresas, el Big Data se usa para integrar datos de la cadena de suministro y mejorar el ciclo de vida de los productos. 
+-Caso Big Data: En un estudio sobre digitalización de empresas, el Big Data se usa para integrar datos de la cadena de suministro y mejorar el ciclo de vida de los productos. 
 UPF-BSM
 
 Aplicación para EcoSmart: consolidar los datos históricos y en tiempo real de consumo para generar reportes de eficiencia, benchmarks, y recomendaciones personalizadas para clientes (edificios, ciudades).
 
-Caso Cloud Computing: Según el informe “Deep Green” de Cognizant, muchas empresas están usando nube/edge + IoT + IA + Big Data para mejorar su sostenibilidad. 
+-Caso Cloud Computing: Según el informe “Deep Green” de Cognizant, muchas empresas están usando nube/edge + IoT + IA + Big Data para mejorar su sostenibilidad. 
 www.cognizant.com
 
 Aplicación para EcoSmart: tu software de gestión energética sería entregado como SaaS, alojado en la nube, para permitir a clientes acceder a sus datos sin invertir en infraestructura.
 
-Caso Blockchain: Hay ejemplos de uso de blockchain para trazabilidad en logística (IBM + Maersk) para registrar el estado de cadenas de suministro. 
+-Caso Blockchain: Hay ejemplos de uso de blockchain para trazabilidad en logística (IBM + Maersk) para registrar el estado de cadenas de suministro. 
 APD
  Además, hay propuestas académicas para usar blockchain para compartir datos IoT de forma auditable. 
 arXiv
 
 Aplicación para EcoSmart: podrías construir una plataforma blockchain para certificar que la energía consumida por los clientes proviene de fuentes renovables (“certificado verde”), o para facilitar que clientes intercambien energía generada (por ejemplo, entre particulares con paneles solares).
 
-Caso Ciberseguridad: En investigación académica se han propuesto arquitecturas que combinen IoT + blockchain + SDN (Software Defined Networking) para fortalecer la seguridad en entornos industria 4.0. 
+-Caso Ciberseguridad: En investigación académica se han propuesto arquitecturas que combinen IoT + blockchain + SDN (Software Defined Networking) para fortalecer la seguridad en entornos industria 4.0. 
 arXiv
 +1
 
 Aplicación para EcoSmart: implementar estas arquitecturas para asegurar que los datos recogidos por los sensores no puedan ser manipulados y garantizar integridad y confidencialidad, especialmente si se manejan datos sensibles de consumo energético o personal.
 
-Caso RA/RV: En el IoT Solutions World Congress se presentaron soluciones de realidad aumentada para industria, mantenimiento y operación remota. 
+-Caso RA/RV: En el IoT Solutions World Congress se presentaron soluciones de realidad aumentada para industria, mantenimiento y operación remota. 
 Interempresas
 
 Aplicación para EcoSmart: usar RA para que los técnicos que mantengan las instalaciones energéticas vean superposiciones de datos en tiempo real sobre los equipos (temperaturas, consumo, fallos), lo que mejora diagnósticos y reduce errores.
@@ -91,43 +91,44 @@ Aplicación para EcoSmart: usar RA para que los técnicos que mantengan las inst
 ---
 
 ## 🧠 Reflexión final
-¿Qué tecnología aporta más valor a los productos/servicios?
+-¿Qué tecnología aporta más valor a los productos/servicios?
 Para EcoSmart, la combinación de IoT + Big Data + IA probablemente aporta el mayor valor, porque te permite medir, analizar y predecir el consumo energético, lo cual es el núcleo de tu propuesta de negocio.
 
-¿Cuál genera mayor impacto sostenible?
+-¿Cuál genera mayor impacto sostenible?
 De cara a sostenibilidad ambiental y eficiencia, IoT (medición en tiempo real) y IA (predicción y optimización) son clave. Además, la blockchain puede aportar al trazado de origen de energía verde y a modelos de intercambio sostenible.
 
-¿Qué combinación sería más eficiente para la empresa?
+-¿Qué combinación sería más eficiente para la empresa?
 Una arquitectura IoT en el borde (edge) + nube (cloud) + IA + Big Data es muy poderosa: los sensores recopilan datos, estos se envían (o procesan parcialmente en edge) hacia la nube, donde se analizan con IA y Big Data para generar información útil para el cliente y para tu empresa. La ciberseguridad debe estar integrada para proteger esa arquitectura; la blockchain podría usarse para ciertos módulos como trazabilidad o certificación; y la RA para mantenimiento especializado.
 
 ## 📚 Fuentes consultadas
-Cognizant: informe Deep Green sobre tecnologías para sostenibilidad (IA, IoT, Cloud, Big Data). 
+-Cognizant: informe Deep Green sobre tecnologías para sostenibilidad (IA, IoT, Cloud, Big Data). 
 www.cognizant.com
 
-Computer Weekly: casos de uso de IoT para sostenibilidad (contadores inteligentes). 
+-Computer Weekly: casos de uso de IoT para sostenibilidad (contadores inteligentes). 
 Computer Weekly
 
-BigDataMagazine: uso de IA y nube en empresas energéticas sostenibles (Capital Energy). 
+-BigDataMagazine: uso de IA y nube en empresas energéticas sostenibles (Capital Energy). 
 AI Talks
 
-Wikipedia / Urbiotica: empresa que usa IoT para smart parking. 
+-Wikipedia / Urbiotica: empresa que usa IoT para smart parking. 
 Wikipedia
 
-APD: ejemplos reales de blockchain en diferentes industrias. 
+-APD: ejemplos reales de blockchain en diferentes industrias. 
 APD
 
-Artículo sobre IA, IoT y robótica en industria sostenible con Orona. 
+-Artículo sobre IA, IoT y robótica en industria sostenible con Orona. 
 SPRI
 
-Congreso IoT Solutions World Congress: presentación de RA en industria. 
+-Congreso IoT Solutions World Congress: presentación de RA en industria. 
 Interempresas
 
-Investigación académica: arquitecturas IoT + blockchain + SDN para seguridad en Industria 4.0. 
+-Investigación académica: arquitecturas IoT + blockchain + SDN para seguridad en Industria 4.0. 
 arXiv
 +1
 
-Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
+-Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
 arXiv
+
 
 
 
