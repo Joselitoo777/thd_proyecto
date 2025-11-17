@@ -3,6 +3,7 @@
 ## 🏢 Empresa seleccionada
 Breve descripción de la empresa real o ficticia.
 
+Supongamos una empresa ficticia llamada EcoSmart Solutions, dedicada a ofrecer soluciones inteligentes para la gestión energética de edificios y ciudades (“smart buildings / smart city”). EcoSmart ofrece sensores, plataformas de software, consultoría para eficiencia energética y servicios de optimización de consumo.
 ---
 
 ## 🧩 Relación entre THD y productos/servicios
@@ -56,3 +57,4 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
