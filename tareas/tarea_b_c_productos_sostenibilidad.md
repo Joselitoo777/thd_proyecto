@@ -113,17 +113,18 @@ AI Talks. https://aitalks.es/
 
 -https://es.wikipedia.org/wiki/Urbiotica?utm_source=chatgpt.com
 
--Artículo sobre IA, IoT y robótica en industria sostenible con Orona. 
-SPRI
+-[Artículo sobre IA, IoT y robótica en industria sostenible con Orona. 
+SPRI](https://www.apd.es/ejemplos-blockchain-aplicaciones-sectores/?utm_source=chatgpt.com)
 
--Congreso IoT Solutions World Congress: presentación de RA en industria. 
-Interempresas
+-[Congreso IoT Solutions World Congress: presentación de RA en industria. 
+Interempresas](https://www.spri.eus/es/emprendimiento/up-euskadi/ia-iot-y-robotica-para-una-industria-mas-eficiente-y-sostenible-con-la-colaboracion-de-startups-y-empresas-lideres-de-bind/?utm_source=chatgpt.com)
 
--Investigación académica: arquitecturas IoT + blockchain + SDN para seguridad en Industria 4.0. 
-arXiv
+-[Investigación académica: arquitecturas IoT + blockchain + SDN para seguridad en Industria 4.0. 
+arXiv](https://www.interempresas.net/Robotica/464713-IOT-Solutions-World-Congress-2023-nuevo-impulso-transformacion-digital-industria.html?utm_source=chatgpt.com)
 
--Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
-arXiv
+-[Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
+arXiv](https://arxiv.org/abs/2002.00456?utm_source=chatgpt.com)
+
 
 
 
