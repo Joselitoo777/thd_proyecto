@@ -105,10 +105,10 @@ Una arquitectura IoT en el borde (edge) + nube (cloud) + IA + Big Data es muy po
 www.cognizant.com
 
 -Computer Weekly: casos de uso de IoT para sostenibilidad (contadores inteligentes). 
-Computer Weekly
+Computer Weekly. https://www.computerweekly.com/
 
 -BigDataMagazine: uso de IA y nube en empresas energéticas sostenibles (Capital Energy). 
-AI Talks
+AI Talks. https://aitalks.es/
 
 -Wikipedia / Urbiotica: empresa que usa IoT para smart parking. 
 Wikipedia
@@ -124,10 +124,10 @@ Interempresas
 
 -Investigación académica: arquitecturas IoT + blockchain + SDN para seguridad en Industria 4.0. 
 arXiv
-+1
 
 -Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
 arXiv
+
 
 
 
