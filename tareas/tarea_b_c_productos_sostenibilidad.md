@@ -101,20 +101,17 @@ De cara a sostenibilidad ambiental y eficiencia, IoT (medición en tiempo real) 
 Una arquitectura IoT en el borde (edge) + nube (cloud) + IA + Big Data es muy poderosa: los sensores recopilan datos, estos se envían (o procesan parcialmente en edge) hacia la nube, donde se analizan con IA y Big Data para generar información útil para el cliente y para tu empresa. La ciberseguridad debe estar integrada para proteger esa arquitectura; la blockchain podría usarse para ciertos módulos como trazabilidad o certificación; y la RA para mantenimiento especializado.
 
 ## 📚 Fuentes consultadas
--Cognizant: informe Deep Green sobre tecnologías para sostenibilidad (IA, IoT, Cloud, Big Data). 
-www.cognizant.com
+-[Cognizant: informe Deep Green sobre tecnologías para sostenibilidad (IA, IoT, Cloud, Big Data). 
+www.cognizant.com](https://www.cognizant.com/es/es/documents/deep-green-como-los-fabricantes-pueden-acelerar-la-agenda-de-sostenibilidad.pdf)
 
--Computer Weekly: casos de uso de IoT para sostenibilidad (contadores inteligentes). 
-Computer Weekly. https://www.computerweekly.com/
+-[Computer Weekly: casos de uso de IoT para sostenibilidad (contadores inteligentes). 
+Computer Weekly. https://www.computerweekly.com/](https://www.computerweekly.com/)
 
--BigDataMagazine: uso de IA y nube en empresas energéticas sostenibles (Capital Energy). 
+-[BigDataMagazine: uso de IA y nube en empresas energéticas sostenibles (Capital Energy). 
 AI Talks. https://aitalks.es/
+](https://aitalks.es/empresas-de-energia-mas-sostenibles-y-seguras-gracias-a-las-tecnologias-de-nube-y-la-ia/?utm_source=chatgpt.com)
 
--Wikipedia / Urbiotica: empresa que usa IoT para smart parking. 
-Wikipedia
-
--APD: ejemplos reales de blockchain en diferentes industrias. 
-APD
+-https://es.wikipedia.org/wiki/Urbiotica?utm_source=chatgpt.com
 
 -Artículo sobre IA, IoT y robótica en industria sostenible con Orona. 
 SPRI
@@ -127,6 +124,7 @@ arXiv
 
 -Investigación académica: plataforma fog-IoT + aprendizaje federado + blockchain para salud. 
 arXiv
+
 
 
 
